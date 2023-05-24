@@ -1,4 +1,4 @@
-# pku_bioinfo_course
+# pku_MTTM_course
 resources for "Multidisciplinary Theories and Technologies in Medicine" course in PKUHSC
 ## MTTM1/database/data_tumor.csv
 This artificial database comprises clinical information and gene expression data from 60 breast cancer patients. 
